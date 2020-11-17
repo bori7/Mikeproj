@@ -2,7 +2,7 @@
   "name": "monsters-rolodex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bori7.github.io/Mikeproj/",
+  "homepage": "https://bori7.github.io/monsters-rolodex-complete/",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/data-grid": "^4.0.0-alpha.9",
@@ -39,7 +39,7 @@
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",
-      "last 1 safari ver sion"
+      "last 1 safari version"
     ]
   }
 }
