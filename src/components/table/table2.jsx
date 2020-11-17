@@ -33,7 +33,6 @@ export default function OrderSortingGrid() {
         sortModel={sortModel}
         columns={coln}
         rows = {data}
-        id="_id"
       />
     </div>
   );
