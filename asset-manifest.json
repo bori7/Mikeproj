@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Mikeproj/static/css/main.e3b74797.chunk.css",
+    "main.js": "/Mikeproj/static/js/main.c8ec9b3c.chunk.js",
+    "main.js.map": "/Mikeproj/static/js/main.c8ec9b3c.chunk.js.map",
+    "runtime-main.js": "/Mikeproj/static/js/runtime-main.121c47ee.js",
+    "runtime-main.js.map": "/Mikeproj/static/js/runtime-main.121c47ee.js.map",
+    "static/js/2.80ecb236.chunk.js": "/Mikeproj/static/js/2.80ecb236.chunk.js",
+    "static/js/2.80ecb236.chunk.js.map": "/Mikeproj/static/js/2.80ecb236.chunk.js.map",
+    "index.html": "/Mikeproj/index.html",
+    "precache-manifest.c6139b0abfda8d7eb162778a965e3022.js": "/Mikeproj/precache-manifest.c6139b0abfda8d7eb162778a965e3022.js",
+    "service-worker.js": "/Mikeproj/service-worker.js",
+    "static/css/main.e3b74797.chunk.css.map": "/Mikeproj/static/css/main.e3b74797.chunk.css.map",
+    "static/js/2.80ecb236.chunk.js.LICENSE.txt": "/Mikeproj/static/js/2.80ecb236.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.121c47ee.js",
+    "static/js/2.80ecb236.chunk.js",
+    "static/css/main.e3b74797.chunk.css",
+    "static/js/main.c8ec9b3c.chunk.js"
+  ]
+}
